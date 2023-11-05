@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=800&size=24&pause=1000&color=2581F7&center=true&vCenter=true&repeat=false&random=true&width=1000&lines=Junior+Java%2FC%23+Developer)](https://git.io/typing-svg)
 
-## 🧑‍💻About Me
+## 🧑‍💻 About Me
 
 Hey there! I'm Ivan, and I'm on a journey to becoming a skilled game developer. Born on December 25, 2004, in the heart of Russia, I'm passionate about coding and the world of game development.
 
@@ -25,6 +25,9 @@ Hey there! I'm Ivan, and I'm on a journey to becoming a skilled game developer. 
 
 ## 📊 Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edokandoe&show_icons=true&theme=transparent )
+
+## 🗺️ Navigation
+- My pat projects are in the repository under the tag "pp_#"
 
 ## 🌟 Interests
 
