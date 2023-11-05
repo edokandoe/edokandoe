@@ -27,7 +27,7 @@ Hey there! I'm Ivan, and I'm on a journey to becoming a skilled game developer. 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edokandoe&show_icons=true&theme=transparent )
 
 ## 🗺️ Navigation
-- My pat projects are in the repository under the tag "pp_#"
+- My pet-projects are in the repository under the tag "pp_#"
 
 ## 🌟 Interests
 
