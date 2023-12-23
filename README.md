@@ -9,7 +9,7 @@ Hey there! I'm Ivan, and I'm on a journey to becoming a skilled game developer. 
 - **Primary Language:** Java 📚
   - I'm a Java enthusiast, with a strong foundation in this versatile language.
 
-- **Exploring C#:** 🎮
+- **Exploring C++:** 🎮
   - Currently, I'm diving into C++, a crucial language in the world of game development.
 
 - **Unity Enthusiast:** 🎮
